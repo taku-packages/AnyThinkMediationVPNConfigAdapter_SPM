@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AnyThinkVPNConfigAdapter",
-            url: "https://topon-sdk-release.oss-accelerate.aliyuncs.com/AnyThink_Release/iosnetwork_2/AnyThinkVPNConfigAdapter/6.5.91/AnyThinkVPNConfigAdapter-6.5.91.zip",
-            checksum: "391ae38ef498e0f702072b4e837f8dc4e163f3105fbea56c5fa00caecc95975e"
+            url: "https://topon-sdk-release.oss-accelerate.aliyuncs.com/AnyThink_Release/iosnetwork_2/AnyThinkVPNConfigAdapter/10.0.0/AnyThinkVPNConfigAdapter-10.0.0.zip",
+            checksum: "aef21bbe3d03908935eec40b2e8f41fe9c1c1304ee547c5275095ccfba62bca4"
         ),
         .target(
             name: "AnyThinkMediationVPNConfigAdapterTarget",
